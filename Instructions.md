@@ -30,7 +30,7 @@ If User goes one day without a POST, streak will reset to 1 (as shown below).
 
 <img width="550" alt="streakresetnew" src="https://user-images.githubusercontent.com/94997951/143376823-9152a98a-8d28-42fe-a685-84bb2dca676f.png">
 
-Step 6: User can GET POSTed moods by sending GET request (as shown below).
+Step 6: User can GET POSTed moods and streak by sending GET request (as shown below).
 
 <img width="550" alt="GETnew" src="https://user-images.githubusercontent.com/94997951/143377023-f330ed8d-8dd5-459e-aa84-07d12f0c2860.png">
 
