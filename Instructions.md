@@ -10,7 +10,7 @@ If invalid username or password is used, user must try logging in again (as show
 
 <img width="550" alt="badlogin" src="https://user-images.githubusercontent.com/94997951/143365048-b53acb6f-773c-484b-ba83-9c94619dfe53.png">
 
-Step 4: User can POST mood in the format shown below.
+Step 4: User can POST mood in the format shown below (json).
 
 <img width="550" alt="onemoodgood" src="https://user-images.githubusercontent.com/94997951/143365208-d09094c1-bdbf-46e2-8bf4-c6eec773ea7b.png">
 
