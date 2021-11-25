@@ -1,1 +1,7 @@
-If this were a production application rather than an assessment, one change I would make is saving user information into a database like MySQL, instead of saving it directly into the python applicatoin file.
+What I would do diffrently:
+
+If this were a production application rather than an assessment, one change I would make is saving user information into a database like MySQL, instead of saving it directly into the python application file. By saving the information into a database, I would have a permanent record of things suchs as users' moods. In my current application, that type of data is stored in memory, which is erased once the application is closed. Also, I would put the user information into a database which would be more organized and accessible if there was a multitude of users.
+
+Moreover, if the passwords were stored in a database like MySQL, this would also allow for more security because the passwords are saved in encrypted form in the database.  Also for production, I would use HTTPS(443) instead of HTTP(80) on a web server because HTTPS(443) is secure. Another functionality I would add to my program is the ability for new users to create an account through a "/signup" endpoint. Also, another functionality I would add to my program is the ability for users to logout of their account using a "/signout" endpoint. 
+
+Additionally, if this were a production application, currently I would still use Python as I am most comfortable with this language right now, however, if I became more comfortable with a new language in the future, I may also use that language to create the web REST API. Lastly, in order to give my program the ability to handle more users and data, I would make sure to filter through the data to increase performance. 
