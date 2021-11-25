@@ -1,0 +1,1 @@
+If this were a production application rather than an assessment, one change I would make is saving user information into a database like MySQL, instead of saving it directly into the python applicatoin file.
