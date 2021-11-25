@@ -1,4 +1,4 @@
-Step 1: User must download Postman Application.
+Step 1: User must download Postman Application, where POST and GET requests will be made.
 
 Step 2: User must run NeuroflowMoodAPI.py file with PyCharm.
 
